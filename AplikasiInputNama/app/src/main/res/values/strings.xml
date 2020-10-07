@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aplikasi Input Nama</string>
+    <string name="lbl_input_nama">Masukkan Nama Anda :</string>
+    <string name="hint_input_nama">Silahkan Masukkan Nama Anda</string>
+    <string name="lbl_input_alamat">Masukkan Alamat Anda :</string>
+    <string name="hint_input_alamat">Silahkan Masukkan Alamat Anda</string>
+    <string name="btn_simpan">Simpan</string>
+    <string name="btn_clear">Clear</string>
+</resources>

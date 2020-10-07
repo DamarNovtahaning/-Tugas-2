@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kalkulator Sederhana</string>
+    <string name="lbl_title">Masukkan Dua Angka</string>
+    <string name="hint_angka1">Masukkan Angka Pertama</string>
+    <string name="hint_angka2">Masukkan Angka Kedua</string>
+    <string name="bersih">Bersihkan</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil">Hasil</string>
+    <string name="result" />
+</resources>
