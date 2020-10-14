@@ -1,0 +1,2 @@
+rootProject.name='Aplikasi Maps'
+include ':app'
